@@ -12,5 +12,6 @@ This gives a whole list of DPI with urban/rural classification and also househol
 2. rural_focus_area.csv contains outliners in rural area
 3. urban_focus_area.csv contains outliners in urban area
 
+For better integration with other data based on LSOA 2021, we also mapped the DPI data to use LSOA 2021.  The code is in https://github.com/siufai6/hcb_dpi/blob/main/dpi.ipynb
 
 Note: the LSOA21_TO_OA_MAPPING file "PCD_OA21_LSOA21_MSOA21_LAD_MAY23_UK_LU.csv" is not in the repo, please download from https://geoportal.statistics.gov.uk/datasets/ons::postcode-to-oa-2021-to-lsoa-to-msoa-to-lad-may-2023-best-fit-lookup-in-the-uk/about
